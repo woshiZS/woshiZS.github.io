@@ -1,5 +1,6 @@
 ---
 title: My_First_Post
+top: true
 toc: true
 mathjax: true
 tags: diary
