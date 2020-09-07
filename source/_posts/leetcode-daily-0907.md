@@ -1,6 +1,5 @@
 ---
 title: 9月7号leetcode每日一题
-cover: false
 toc: true
 mathjax: true
 date: 2020-09-07 16:28:16
