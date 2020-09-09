@@ -12,7 +12,7 @@ categories:
     - linux
 ---
 &nbsp;&nbsp;&nbsp;&nbsp;最近几天再忙学校自动填表的线上项目部署，遇到了不少问题，为防止以后忘记，在此特地记录一下。
-
+<!-- more -->
 ### mysql插入操作报错
 报错信息为
 ```shell
