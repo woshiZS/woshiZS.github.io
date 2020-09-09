@@ -9,7 +9,7 @@ tags:
     - depth first search
     - cut branch
 categories:
-    - leetcodedaily
+    - leetcode-daily
 ---
 [原题链接: 组合总和](https://leetcode-cn.com/problems/combination-sum/)
 ### 思考过程
